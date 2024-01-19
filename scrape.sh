@@ -2,4 +2,4 @@
 
 URL="https://gov4git.framer.website/"
 
-wget -r --level=0 -np $URL
+wget -r -k --no-cache --level=0 -np $URL
