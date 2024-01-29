@@ -1,3 +1,3 @@
 #!/bin/sh
 
-rpl -R gov4git.framer.website gov4git.org *
+rpl -R gov4git.org gov4git.org *
